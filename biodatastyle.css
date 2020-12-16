@@ -1,0 +1,14 @@
+body{
+  margin:0;
+  padding:0;
+  background: #fff;
+  font-family:sans-serif;
+}
+.banner{
+  height:100%;
+  width:100%;
+  background:url('banner_tentangkami.jpg');
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
